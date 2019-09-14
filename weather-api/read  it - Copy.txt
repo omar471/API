@@ -1,4 +1,4 @@
-
+  this    is simple   weather   api,  when you search the city name  in the  search  box , you will get  the details  below  about  that city weather.
    
    
 ----my project----
